@@ -1,0 +1,18 @@
+body{
+    color:bisque;
+    background:linear-gradient(#ffb6c1, #C8A2C8, #00FFFF);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 3px dashed;
+    width: 300px;
+    height: 300px;
+}
+#ron, #roa{
+    color: black;
+}
